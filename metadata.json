@@ -1,0 +1,9 @@
+{
+  "name": "Gnome Email Notifications With Tray Icon",
+  "description": "Shows Email notifications and a tray icon with counter!",
+  "uuid": "gnomeemailtray@patrick.libert.com",
+  "shell-version": [
+    "3.36",
+    "40"
+  ]
+}
